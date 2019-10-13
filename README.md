@@ -6,3 +6,6 @@
 * [React](https://reactjs.org/)
 * [Bootstrap](https://getbootstrap.com/)
 * [Heroku](https://dashboard.heroku.com/auth/heroku/callback?code=d952f80a-c98f-499a-bb22-1164a24ec00d)
+
+## Deployment
+Application deployed on Heroku: https://fast-sea-95140.herokuapp.com/
